@@ -1,4 +1,4 @@
-package com.xname.appname;
+package com.nem.twitterapis;
 
 import org.slf4j.MDC;
 

@@ -5,6 +5,8 @@
 *.project
 *.settings*
 *.java-version
+*application-local.properties
+*.log
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/

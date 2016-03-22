@@ -1,4 +1,4 @@
-package com.xname.appname.controller;
+package com.nem.twitterapis.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

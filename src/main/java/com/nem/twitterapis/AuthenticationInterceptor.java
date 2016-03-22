@@ -1,4 +1,4 @@
-package com.xname.appname;
+package com.nem.twitterapis;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

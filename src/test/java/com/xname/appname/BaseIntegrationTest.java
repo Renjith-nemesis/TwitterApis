@@ -24,7 +24,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.jayway.restassured.RestAssured;
 import com.jayway.restassured.response.Response;
 import com.jayway.restassured.specification.RequestSpecification;
-import com.xname.appname.Main;
+import com.nem.twitterapis.Main;
 
 // TODO: Auto-generated Javadoc
 /**

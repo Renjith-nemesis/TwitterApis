@@ -1,4 +1,4 @@
-package com.xname.appname;
+package com.nem.twitterapis;
 
 import java.util.ArrayList;
 import java.util.List;

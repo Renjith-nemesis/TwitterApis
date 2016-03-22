@@ -1,4 +1,4 @@
-package com.xname.appname.controller;
+package com.nem.twitterapis.controller;
 
 import java.util.Date;
 import java.util.HashMap;
